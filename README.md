@@ -26,6 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdutta18&" alt="bdutta18" /></p>
 
+[![An image of @bdutta18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bdutta18)](https://holopin.io/@bdutta18)
+
 
 
 
