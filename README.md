@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bodhisatwa Dutta</h1>
-<h3 align="center">A passionate Undergraduate Student from India</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdutta18&label=Profile%20views&color=0e75b6&style=flat" alt="bdutta18" /> </p>
