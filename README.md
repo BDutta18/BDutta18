@@ -22,7 +22,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bdutta18&show_icons=true&locale=en&layout=compact" alt="bdutta18" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bdutta18&show_icons=true&locale=en" alt="bdutta18" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdutta18&" alt="bdutta18" /></p>
-<h3 align="left">**HOLOPIN BADGES**:</h3>
+<h3 align="left">HOLOPIN BADGES:</h3>
+
 [![An image of @bdutta18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bdutta18)](https://holopin.io/@bdutta18)
 
 
