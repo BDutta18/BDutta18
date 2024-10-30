@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning  **Frontend Development**
 
-- 📫 How to reach me  **bodhisatwadutta.it2024@nsec.ac.in**
+- 📫 How to reach me  **bodhisatwadutta025@gmail.com**
 
 - ⚡ Fun fact  **I am Funny**
 
