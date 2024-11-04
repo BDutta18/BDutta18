@@ -20,7 +20,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bdutta18&show_icons=true&locale=en&layout=compact" alt="bdutta18" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bdutta18&show_icons=true&locale=en" alt="bdutta18" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdutta18&" alt="bdutta18" /></p>
- <h3 align="left">GSSOC BADGES🪶:</h3>
+ <h3 align="left">GSSOC(24) BADGES🪶:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
