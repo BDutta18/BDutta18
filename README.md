@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer From India</h3>
 
 <h3 align="left">ABOUT ME:</h3>
-Hello Everyone Myself Bodhisatwa Dutta , 1st Year student at Netaji Subhash Engineering College  , I'm eager to explore the tech world! Currently, I am Currently learning Frontend Development and expanding my skills in MySQL, Python, and more. I like to play football and chess .Excited to connect with like-minded individuals and learn from their experiences. Let's grow together!!
+Hello Everyone Myself Bodhisatwa Dutta , 1st Year student at Netaji Subhash Engineering College  , I'm eager to explore the tech world! , I am Currently learning Frontend Development and expanding my skills in MySQL, Python, and more. I like to play football and chess .Excited to connect with like-minded individuals and learn from their experiences. Let's grow together!!
 
 
 ## 🌐 SOCIALS:
