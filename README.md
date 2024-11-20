@@ -22,7 +22,7 @@ Hello Everyone Myself Bodhisatwa Dutta , 1st Year student at Netaji Subhash Engi
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Hack-Web3Conf 2024 Badge (2) (1).png" width="100px" height="100px" />
   
 </div>
 <h3 align="left">HOLOPIN BADGES:</h3>
