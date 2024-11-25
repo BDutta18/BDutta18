@@ -28,7 +28,7 @@ Hello Everyone Myself Bodhisatwa Dutta , 1st Year student at Netaji Subhash Engi
 <h3 align="left">HOLOPIN BADGES:</h3>
 
 [![An image of @bdutta18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bdutta18)](https://holopin.io/@bdutta18)
-
+... 
 
 
 
