@@ -68,7 +68,7 @@ Community:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### 🏆 Achievements
-<table> <tr><td>🥇 Winner</td><td>HackNPitch E-Cell Jadavpur University (JU)</td></tr><tr><td>🥇 TOP 10</td><td>Innovation national institute of technology(NIT) Nagaland</td></tr><tr><td>🌐Finalist</td><td>Hack4Bengal Virtual 2025 (Eastern India's Biggest Hackathon)</td></tr><tr><td>🌐Finalist</td><td>Binary KGEC</td></tr></table>
+<table> <tr><td>🥇 Winner</td><td>HackNPitch E-Cell Jadavpur University (JU)</td></tr><tr><td>🥇 TOP 10</td><td>Innovation National Institute of Technology(NIT) Nagaland</td></tr><tr><td>🌐Finalist</td><td>Hack4Bengal Virtual 2025 (Eastern India's Biggest Hackathon)</td></tr><tr><td>🌐Finalist</td><td>Binary KGEC</td></tr></table>
 
 ```yaml
 
