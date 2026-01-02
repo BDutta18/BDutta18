@@ -18,11 +18,18 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Information Technology @ Netaji Subhash Engineering College
-- 🔭 Currently building **AI-driven social impact solutions** and **blockchain systems**
-- 🏆 6x National level Hackathon Finalist | GDGoC NSEC WEB3 Team | PR & Marketing Lead @Sourcify IN
-- 🌱 Exploring **decentralized applications** and **smart contract development**
-- ⚡ Love connecting tech with social good 🤝
+```yaml
+Full Name: Bodhisatwa Dutta
+Current Role: Student @ Netaji Subhas Engineering College
+Open For: Internships | Devrel Engineering
+Leadership:
+  - 👨‍💼 PR & Marketing Lead @Sourcify IN
+  - 🧠 WEB3 & Blockchain Team @GDGoC NSEC
+  - 👨‍💼 Lead Organizer Cosmohack1 
+Community:
+  - 🚀 Sourcify IN Community
+  - 🚀 GDGoC NSEC Community
+```
 
 ## 🛠️ Tech Stack
 ### 🧠 Languages
@@ -35,7 +42,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)g
 
 ### 🔗 Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -60,11 +67,19 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+### 🏆 Achievements
+<table> <tr><td>🥇 Winner</td><td>HackNPitch E-Cell Jadavpur University (JU)</td></tr><tr><td>🥇 TOP 10</td><td>Innovation national institute of technology(NIT) Nagaland</td></tr><tr><td>🌐Finalist</td><td>Hack4Bengal Virtual 2025 (Eastern India's Biggest Hackathon)</td></tr><tr><td>🌐Finalist</td><td>Binary KGEC</td></tr></table>
 
+```yaml
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BDutta18&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BDutta18&theme=blue_navy&hide_border=false)
+🌍 Open Source Journey
+
+✨ Project Admin: GSSOC'25 & APERTRE 3.0
+🌟 Top Contributor: JGEC WOC'25 & GSSoC 24(Ext) 
+🧠Contributor: GSSOC (Rank 424),SSOC 24, WOC 4.0 IIIT KALYANI
+
+```
+
 
 <h3 align="left">GSSOC(24) BADGES🪶:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -75,8 +90,28 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="Hack-Web3Conf 2024 Badge (2) (1).png" width="100px" height="100px"
+  </div>
+
+<div align=center>
+ 
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=BDutta18&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
+ 
 </div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/BDutta18">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BDutta18&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BDutta18&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BDutta18&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BDutta18&theme=highcontrast" height="180em" />
+</div>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 <h3 align="left">HOLOPIN BADGES:</h3>
 
 [![An image of @bdutta18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bdutta18)](https://holopin.io/@bdutta18)
