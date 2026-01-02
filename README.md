@@ -76,7 +76,7 @@ Community:
 
 ✨ Project Admin: GSSOC'25 & APERTRE 3.0
 🌟 Top Contributor: JGEC WOC'25 & GSSoC 24(Ext) 
-🧠Contributor: GSSOC (Rank 424),SSOC 24, WOC 4.0 IIIT KALYANI
+🧠 Contributor: GSSOC (Rank 424),SSOC 24, WOC 4.0 IIIT KALYANI
 
 ```
 
