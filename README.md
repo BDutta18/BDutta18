@@ -86,7 +86,7 @@ Solana Wallet Address:
 
 ✨ Project Admin: GSSOC'25 & APERTRE 3.0
 🌟 Top Contributor: JGEC WOC'25 & GSSoC 24(Ext) 
-🧠 Contributor: GSSoC 24(Ext)-(Rank 424),SSOC 24, WOC 4.0 IIIT KALYANI
+🧠 Contributor: GSSoC 24(Ext)-(Rank 424), HacktoberFest 24, WOC 4.0 IIIT KALYANI
 
 ```
 
