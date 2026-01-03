@@ -31,6 +31,16 @@ Community:
   - 🚀 GDGoC NSEC Community
 ```
 
+### 🔗 MY WALLETS:
+```yaml
+Ethereum Wallet Address:
+  - 0x048Eb7331fc4C51748AB99cd65181D6A00cECc6f
+Solana Wallet Address:
+  - 2KAaEeFKDD3e12tu6Y9zENKzAMW2Kyw95sg2q7sx8dFd
+```
+
+
+
 ## 🛠️ Tech Stack
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
