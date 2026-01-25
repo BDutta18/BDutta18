@@ -21,7 +21,7 @@
 ```yaml
 Full Name: Bodhisatwa Dutta
 Current Role: Student @ Netaji Subhas Engineering College
-Open For: Internships | Devrel Engineering
+Open For: Internships 
 Leadership:
   - 👨‍💼 PR & Marketing Lead @Sourcify IN
   - 🧠 WEB3 & Blockchain Team @GDGoC NSEC
