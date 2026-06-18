@@ -21,9 +21,10 @@
 ```yaml
 Full Name: Bodhisatwa Dutta
 Current Role: Student @ Netaji Subhas Engineering College
-Open For: Internships 
+              Research Intern VLed Labs @IIT Ropar
+              Ambassador @Stellar India 
 Leadership:
-  - 👨‍💼 PR & Marketing Lead @Sourcify IN
+  - 👨‍💼 Community Lead @Sourcify IN
   - 🧠 WEB3 & Blockchain Team @GDGoC NSEC
   - 👨‍💼 Lead Organizer Cosmohack1 
 Community:
@@ -37,6 +38,8 @@ Ethereum Wallet Address:
   - 0x048Eb7331fc4C51748AB99cd65181D6A00cECc6f
 Solana Wallet Address:
   - 2KAaEeFKDD3e12tu6Y9zENKzAMW2Kyw95sg2q7sx8dFd
+Stellar Wallet Address:
+  - GA6LENTHFAG3UY2HK7V24RBGYKIQTPLPG42G5QT26VILKB7KXLUR2ACI
 ```
 
 
