@@ -92,19 +92,6 @@ Stellar Wallet Address:
 🧠 Contributor: GSSoC 24(Ext)-(Rank 424), HacktoberFest 24, WOC 4.0 IIIT KALYANI
 
 ```
-
-
-<h3 align="left">GSSOC(24) BADGES🪶:</h3>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="Hack-Web3Conf 2024 Badge (2) (1).png" width="100px" height="100px"
-  </div>
-
 <div align=center>
  
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=BDutta18&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
