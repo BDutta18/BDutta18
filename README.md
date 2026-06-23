@@ -34,8 +34,6 @@ Community:
 
 ### 🔗 MY WALLETS:
 ```yaml
-Ethereum Wallet Address:
-  - 0x048Eb7331fc4C51748AB99cd65181D6A00cECc6f
 Solana Wallet Address:
   - 2KAaEeFKDD3e12tu6Y9zENKzAMW2Kyw95sg2q7sx8dFd
 Stellar Wallet Address:
