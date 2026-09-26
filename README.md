@@ -19,7 +19,6 @@
 ## 🚀 About Me
 
 ```yaml
-Full Name: Bodhisatwa Dutta
 Current Role: Student @ Netaji Subhas Engineering College
               Research Intern VLed Labs @IIT Ropar
               Ambassador @Stellar India 
